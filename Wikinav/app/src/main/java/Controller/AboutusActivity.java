@@ -14,8 +14,8 @@ public class AboutusActivity extends AppCompatActivity implements View.OnClickLi
 
     private TextView tv_about;
     private Button bt_start;
-    private String about="M2-TTT-Groupe Reseaux\n\nMembre de Groupe de projet:\n" +
-            "\t> KERRAM Mourad\n\t> KHIAT Hayet\n\t>MBODJI Arame";
+    private String about="\nMembre de Groupe de projet:\n" +
+            "\t> KERRAM Mourad";
     private String about1="\n\n\tpropos du projet Wikinav\n\n";
     private String about3="\t\t\t\tLe projet Wikinav consiste à" +
             " implanter un jeu sous Android dont le principe réside dans la découverte " +
