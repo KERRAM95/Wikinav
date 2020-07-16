@@ -10,5 +10,5 @@ récupérer on pioche uniquement les articles qui nous intéressent, le format d
 considérera uniquement les liens vers des articles en base.
 
 
-Exemple de ce jeu sous le web :  https://dlab.epfl.ch/wikispeedia/play/
+Ce jeu en version web :  https://dlab.epfl.ch/wikispeedia/play/
 Lien vers le ficher qui contient les articales wikipibia utilisés dans cette application : http://igm.univ-mlv.fr/~chilowi/data/linkkle/truncated_graphs/
